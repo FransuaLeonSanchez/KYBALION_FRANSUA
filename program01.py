@@ -2,9 +2,8 @@
 Este programa demuestra la correcta aplicación de python venv, isort, black y pylint
 Recomendaciones:
 -Iniciar el entorno virtual con el comando "venv\Scripts\activate"
--Instalar las librerías necesarias con el comando "pip install -r requirements.txt"
--Para ejecutar el programa, escribir "python program01.py"
--Para ejecutar pylint, escribir "pylint program01.py"
+-Para ejecutar pylint, escribir "pylint program01.py", el codigo actual cuenta con un una califiacion 10/10
+-El programa ya paso por isort y black, por lo que no es necesario ejecutarlos nuevamente
 """
 
 import math
